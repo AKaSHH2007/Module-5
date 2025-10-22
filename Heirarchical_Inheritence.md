@@ -32,6 +32,7 @@ To write a Python program that uses **Hierarchical Inheritance** to input and di
 
 ## Program
 Add code here
+```
 class Details:
     def __init__(self, name, age):
         self.name = name
@@ -75,7 +76,7 @@ pat_disease = input()
 patient = Patient(pat_name, pat_age, pat_id, pat_disease)
 employee.getEmployeeDetails()
 patient.getPatientDetails()
-
+```
 ## Sample Output
 <img width="518" height="399" alt="image" src="https://github.com/user-attachments/assets/df66e98d-f9e4-4162-8065-8e5e156dc7bd" />
 
