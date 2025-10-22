@@ -24,6 +24,9 @@ The program defines a class `Demo` with:
 Add code Here
 
 ## 🧪 Output
+<img width="702" height="186" alt="image" src="https://github.com/user-attachments/assets/497737bd-d665-48fd-af27-55ba411eb3d1" />
 
 ## Result
+This project demonstrates how to implement a destructor in Python using a simple class is executed sucessfully.
+
 
