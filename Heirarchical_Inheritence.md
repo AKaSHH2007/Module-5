@@ -33,4 +33,5 @@ To write a Python program that uses **Hierarchical Inheritance** to input and di
 ## Program
 Add code here
 ## Sample Output
+<img width="518" height="399" alt="image" src="https://github.com/user-attachments/assets/df66e98d-f9e4-4162-8065-8e5e156dc7bd" />
 
