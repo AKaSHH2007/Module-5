@@ -27,6 +27,7 @@ To write a Python program that uses multilevel inheritance to get and display a 
 
 ## Program
 Add code here
+```
 class student:
     def __init__(self,x,y,z):
         self.x=x
@@ -40,7 +41,7 @@ y=int(input())
 z=int(input())
 obj=s(x,y,z)
 obj.show()
-
+```
 ## Sample Output
 <img width="1662" height="600" alt="image" src="https://github.com/user-attachments/assets/de5975a4-4cb1-4d02-b737-39ddfe3c2874" />
 
