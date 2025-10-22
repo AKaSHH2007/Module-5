@@ -22,6 +22,15 @@ The program defines a class `Demo` with:
    - Delete the object using the `del` keyword.
 ## Program
 Add code Here
+```
+class Demo:
+    def __init__(self):
+        print("Alive")
+    def __del__(self):
+        print("The object no longer exists")
+obj=Demo()
+del obj
+```
 
 ## 🧪 Output
 <img width="702" height="186" alt="image" src="https://github.com/user-attachments/assets/497737bd-d665-48fd-af27-55ba411eb3d1" />
